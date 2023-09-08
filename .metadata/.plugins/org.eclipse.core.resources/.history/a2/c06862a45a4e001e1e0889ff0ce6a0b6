@@ -1,0 +1,14 @@
+package client;
+
+public class Welcome3 {
+
+	public Welcome3() {
+		// TODO Auto-generated constructor stub
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

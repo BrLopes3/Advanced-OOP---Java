@@ -1,0 +1,14 @@
+package client;
+
+public class Welcoming2 {
+
+	public Welcoming2() {
+		// TODO Auto-generated constructor stub
+	}
+
+	public static void main(String[] args) {
+		System.out.println("Welcome to the first Java test");
+
+	}
+
+}
